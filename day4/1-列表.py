@@ -132,3 +132,4 @@ print(str1)
 # range 还支持步长
 for s in range(10,0,-1):
     print(s)
+
