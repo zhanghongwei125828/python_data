@@ -35,6 +35,5 @@ ss = ""
 b = bool(s)
 bb = bool(ss)
 print(b,bb)
-
 '''
 
