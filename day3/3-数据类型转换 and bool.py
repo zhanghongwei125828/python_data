@@ -4,6 +4,8 @@
 '''
 a = 10
 s = str(a)
+print(s)
+print(type(s))
 '''
 
 # str ----> int  # ps:  str转int str必须是数字
@@ -36,4 +38,3 @@ b = bool(s)
 bb = bool(ss)
 print(b,bb)
 '''
-

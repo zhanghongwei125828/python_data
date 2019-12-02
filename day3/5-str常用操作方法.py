@@ -47,7 +47,7 @@ print(ss8)
 s9 = 'sdfasfgswd'
 ss9 = s9.startswith('sdf')
 print(ss9)
-#  以什么结尾  -end        #返回True 或 False
+#  以什么结尾  -endswith         #返回True 或 False
 s10 = 'sdfasfgswd'
 ss10 = s10.endswith('swd')
 print(ss10)
